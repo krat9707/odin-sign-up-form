@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Billionaire Medium Grunge';
+    src: url('BillionaireMediumGrunge.woff2') format('woff2'),
+        url('BillionaireMediumGrunge.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
